@@ -3,7 +3,7 @@ f=[25.0, 1345.0, 0.3]
 """
 temperature de départ, cp poid, poid en kg
 """
-i=[0.03, 16.9, 0.03]
+i=[0.03, 16.3, 0.03]
 p=[0.1, 0.3, 0.3]
 """
 surface en mètre^2, trasnfert chaleur, epaisseur en mètre
